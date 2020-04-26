@@ -1,4 +1,4 @@
-jour;Num comm;référence;taille;quantité
+date;Commande numero;reference;size;quantity
 04+03+2015;1;af23;42;150
 04+03+2015;1;ab12;40;500
 04+03+2015;1;ab12;33;214
